@@ -1,4 +1,4 @@
 # On_market
-
-you can import the collection file in postman tool 
+download the project 
+you can import the collection file "On market.postman_collection.json" in postman tool 
 and run the collection
